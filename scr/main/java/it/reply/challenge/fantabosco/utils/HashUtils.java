@@ -1,5 +1,7 @@
 package it.reply.challenge.fantabosco.utils;
 
+import java.nio.ByteBuffer;
+import java.nio.charset.Charset;
 import java.nio.charset.StandardCharsets;
 import java.security.MessageDigest;
 import java.security.NoSuchAlgorithmException;
@@ -48,5 +50,14 @@ public class HashUtils {
 		    hexString.append(hex);
 	    }
 	    return hexString.toString();
+	}
+	
+	private static String hexToCharset(String hex, Charset charset) {
+		ByteBuffer buff = ByteBuffer.allocate(hex.length()/2);
+		for (int i = 0; i < hex.length(); i+=2) {
+		    buff.put((byte)Integer.parseInt(hex.substring(i, i+2), 16));
+		}
+		buff.rewind();
+		return Charset.forName(charset.name()).decode(buff).toString();
 	}
 }

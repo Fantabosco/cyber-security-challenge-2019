@@ -1,0 +1,132 @@
+18732-0.txt		 Aesop		 Aesop's Fables A New Revised Version From Original Sources
+pg45334.txt		 Alessandro Manzoni		 I promessi sposi Opere di Alessando Manzoni, vol. 1
+pg35155.txt		 Alessandro Manzoni		 The Betrothed From the Italian of Alessandro Manzoni
+pg13951 (1).txt		 Alexaedre Dumas		 Les troin mousquetairbs
+pg17989.txt		 Alexandre Dumas		 Le comte de Monte-Cristo, Tome I
+pg17990.txt		 Alexandre Dumas		 Le comte de Monte-Cristo, Tome II
+pg17991.txt		 Alexandre Dumas		 Le comte de Monte-Cristo, Tome III
+pg17992.txt		 Alexandre Dumas		 Le comte de Monte-Cristo, Tome IV
+pg13947.txt		 Alexandre Dumas		 Le vicomte de Bragelonne, Tome I.
+pg13948.txt		 Alexandre Dumas		 Le vicomte de Bragelonne, Tome II.
+pg13949.txt		 Alexandre Dumas		 Le vicomte de Bragelonne, Tome III.
+pg13950.txt		 Alexandre Dumas		 Le vicomte de Bragelonne, Tome IV.
+pg13951.txt		 Alexandre Dumas		 Les trois mousquetaires
+pg13952.txt		 Alexandre Dumas		 Vingt ans après
+pg610.txt		 Alfred, Lord Tennyson		 Idylls of the King
+pg30307.txt		 Anthony Gilmore		 Hawk Carse
+pg29310.txt		 Anthony Gilmore		 The Affair of the Brains
+pg29298.txt		 Anthony Gilmore		 The Bluff of the Hawk
+pg30303.txt		 Anthony Gilmore		 The Passing of Ku Sui
+pg29466.txt		 Arthur J. Burks		 Lords of the Stratosphere
+pg29416.txt		 Arthur J. Burks		 The Mind Master
+pg29190.txt		 Arthur Leo Zagat		 The Great Dome on Mercury
+pg29322.txt		 Arthur Leo Zagat		 When the Sleepers Woke
+500-0.txt		 C. Collodi--Pseudonym of Carlo Lorenzini		 The Adventures of Pinocchio
+6400-0.txt		 C. Suetonius Tranquillus		 The Lives Of The Twelve Caesars, Complete To Which Are Added, His Lives Of The Grammarians, Rhetoricians, And Poets
+23294-0.txt		 C. Valerius Catullus Robinson Ellis		 Catulli Carmina
+pg32398.txt		 Charles Willard Diffin		 Brood of the Dark Moon
+pg29717.txt		 Charles Willard Diffin		 The Finding of Haldgren
+pg29202.txt		 Charles Willard Diffin		 The Hammer of Thor
+pg29965.txt		 Charles Willard Diffin		 Two Thousand Miles Below
+pg27013.txt		 Clifford Donald Simak		 Hellhounds of the Cosmos
+1012-0.txt		 Dante Alighieri		 La Divina Commedia di Dante
+pg22176.txt		 David R. Sparks		 The Winged Men of Orcon A Complete Novelette
+pg27464.txt		 Desmond Winter Hall		 A Scientist Rises
+pg29053.txt		 Desmond Winter Hall		 Raiders Invisible
+pg29389.txt		 Donald Wandrei		 Raiders of the Universes
+pg932.txt		 Edgar Allan Poe		 The Fall of the House of Usher
+pg28832.txt		 Edmond Hamilton		 The Sargasso of Space
+pg29457.txt		 Edwin K. Sloat		 Loot of the Void
+pg29702.txt		 Edwin K. Sloat		 The Space Rover
+pg29046.txt		 Francis Flagg		 The Heads of Apex
+pg23831.txt		 Francis Flagg		 The Seed of the Toc-Toc Birds
+pg18837.txt		 Gaius Iulius Caesar		 Commentarii de Bello Gallico Libri V-VIII
+pg2383 (1).txt [U]		Geoffrey Chaucer		The Canterbury Tales and Other Poems
+pg2383.txt [U]		Geoffrey Chaucer		The Canterbury Tales and Other Poems
+pg32029.txt		 H. G. Winter		 Seed of the Arctic Ice
+pg29475.txt		 H.G. Winter		 Under Arctic Ice
+pg28628.txt		 Hal K. Wells		 Devil Crystals of Arret
+pg27143.txt		 Hal K. Wells		 The Cavern of the Shining Ones
+pg26917.txt		 Hal K. Wells		 Zehru of Xollar
+pg22154.txt		 Harl Vincent		 Creatures of Vibration
+pg28883.txt		 Harl Vincent		 The Copper-Clad World
+pg29321.txt		 Harl Vincent		 Vulcan's Workshop
+pg29408.txt		 Harl Vincent		 Wanderer of Infinity
+pg29027.txt		 Harold Thompson Rich		 Spawn of the Comet
+pg16452.txt		 Homer		 The Iliad of Homer Translated into English Blank Verse
+51355-0.txt		 Homer		 The Iliads of Homer Translated according to the Greek
+pg1727.txt		 Homer		 The Odyssey
+24269-0.txt		 Homer		 The Odyssey of Homer
+pg37381.txt		 Jacob Grimm Wilhelm Grimm		 Snowdrop and Other Tales
+4300-0.txt		 James Joyce		 Ulysses
+pg42671.txt		 Jane Austen		 Pride and Prejudice
+pg29421.txt		 Jason Kirby		 The Floating Island of Madness
+48688-0.txt		 John Donne		 The Poems of John Donne [2 vols.] Volume I Edited from the Old Editions and Numerous Manuscripts
+48772-0.txt		 John Donne		 The Poems of John Donne,  Volume II (of 2) Edited from the Old Editions and Numerous Manuscripts
+pg23684.txt		 John Keats		 Keats: Poems Published in 1820
+pg29283.txt		 John Stewart Williamson		 Salvage in Space
+pg29177.txt		 John Stewart Williamson		 The Pygmy Planet
+pg218.txt		 Julius Cæsar		 Cæsar's Commentaries, Books I-IV [in Latin]
+2600-0 (1).txt		 Leo Tolstoy		 War and Peace
+2600-0.txt		 Leo Tolstoy		 War and Peace
+pg5131.txt		 Lord Byron		 Childe Harold's Pilgrimage
+pg21700.txt		 Lord Byron		 Don Juan
+3747-0.txt		 Ludovico Ariosto		 Orlando Furioso
+pg29060.txt		 Miles John Breuer		 The Einstein See-Saw
+pg20920.txt		 Murray Leinster		 Morale A Story of the War of 1941-43
+pg29299.txt		 Nat Schachner		 Pirates of the Gorm
+pg29966.txt		 Nat Schachner		 Slaves of Mercury
+pg29771.txt		 Paul Ernst		 The Planetoid of Peril
+pg22171.txt		 Paul Ernst		 The Radiant Shell
+pg27248.txt		 Paul Ernst		 The Raid on the Termites
+pg30214.txt		 Paul Ernst		 The Red Hell of Jupiter
+pg20551.txt		 Raymond King Cummings		 The White Invaders
+pg20859.txt		 Raymond King Cummings		 Wandl the Invader
+pg20553.txt		 Robert H. Wilson		 Out Around Rigel
+pg29038.txt		 Roman Frederick Starzl		 In the Orbit of Saturn
+pg29437.txt		 Roman Frederick Starzl		 The Martian Cabal
+pg29293.txt		 Sewell Peaslee Wright		 Priestess of the Flame
+pg29309.txt		 Sewell Peaslee Wright		 The Death-Traps of FX-31
+pg28705.txt		 Sewell Peaslee Wright		 The God in the Box
+pg20838.txt		 Sewell Peaslee Wright		 The Infra-Medians
+pg29118.txt		 Sewell Peaslee Wright		 The Terror from the Depths
+pg29353.txt		 Sewell Peaslee Wright		 Vampires of Space
+pg26989.txt		 Sterner St. Paul Meek		 B. C. 30,000
+pg22132.txt		 Sterner St. Paul Meek		 Giants on the Earth
+pg29069.txt		 Sterner St. Paul Meek		 Poisoned Air
+pg29326.txt		 Sterner St. Paul Meek		 The Great Drought
+pg29401.txt		 Sterner St. Paul Meek		 The Solar Magnet
+1321-0.txt		 T. S. Eliot		 The Waste Land
+pg392.txt		 Torquato Tasso		 Jerusalem Delivered
+pg29390.txt		 Various		 Astounding Stories of Super-Science April 1930
+pg28617.txt		 Various		 Astounding Stories of Super-Science February 1930
+pg29198.txt		 Various		 Astounding Stories of Super-Science July 1930
+pg29255.txt		 Various		 Astounding Stories of Super-Science September 1930
+pg29768.txt		 Various		 Astounding Stories of Super-Science, August 1930
+pg30691.txt		 Various		 Astounding Stories of Super-Science, December 1930
+pg29848.txt		 Various		 Astounding Stories of Super-Science, June, 1930
+pg29607.txt		 Various		 Astounding Stories of Super-Science, March 1930
+pg29809.txt		 Various		 Astounding Stories of Super-Science, May, 1930
+pg29919.txt		 Various		 Astounding Stories of Super-Science, November, 1930
+pg29882.txt		 Various		 Astounding Stories of Super-Science, October, 1930
+pg30452 (1).txt		 Various		 Astounding Stories,  April, 1931
+pg30452.txt		 Various		 Astounding Stories,  April, 1931
+pg33016.txt		 Various		 Astounding Stories,  August, 1931
+pg30124.txt		 Various		 Astounding Stories, February, 1931
+pg31168.txt		 Various		 Astounding Stories, July, 1931
+pg31893.txt		 Various		 Astounding Stories, June, 1931
+pg30166.txt		 Various		 Astounding Stories, March, 1931
+pg30532.txt		 Various		 Astounding Stories, May, 1931
+pg29384.txt		 Victor Endersby		 Disowned
+pg41481.txt		 Victor Rousseau Captain S. P. Meek Ray Cummings M. L. Staley C. V. Tench Murray Leinster Anthony Pelcher		 Astounding Stories of Super-Science January 1930
+pg38877.txt		 W. B. Yeats		 Poems
+pg29410.txt		 Wallace West		 The End of Time
+1934-0.txt		 William Blake		 Songs of Innocence and Songs of Experience
+pg29455.txt		 William Fitzgerald Jenkins		 Invasion
+pg30408.txt		 William Fitzgerald Jenkins		 The Fifth-Dimension Tube
+pg1112.txt		 William Shakespeare		 Romeo and Juliet
+pg1041.txt		 William Shakespeare		 Shakespeare's Sonnets
+pg1107.txt [U]		William Shakespeare		THE TAMING OF THE SHREW
+pg2265.txt [U]		William Shakespeare		The Tragedie of Hamlet
+pg2267.txt [U]		William Shakespeare		The Tragedie of Othello, the Moore of Venice
+pg9622.txt		 William Wordsworth Samuel Taylor Coleridge		 Lyrical Ballads 1798llads 1798
